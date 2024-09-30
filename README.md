@@ -1,6 +1,6 @@
-﻿# oibsip-task-3
+﻿# oibsip-task-2
 
-this is task 3 of oibsip internship 
+this is task 2 of oibsip internship 
 Asked to create a dumpy portfolio
 
 
